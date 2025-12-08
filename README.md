@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Python**
 
-- 👨‍💻 All of my projects are available at [https://jmaager.github.io/portfolio/](https://jmaager.github.io/portfolio/)
+- 👨‍💻 Most of my projects are available at [https://jmaager.github.io/portfolio/](https://jmaager.github.io/portfolio/)
 
 - 📫 How to reach me **jesper.maagero@hotmail.com**
 
