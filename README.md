@@ -1,13 +1,53 @@
-<h1 align="center">Hi 👋, I'm Jesper</h1>
-<h3 align="center">A FrontEnd-Developer in the making, passion for coding user-friendly design.</h3>
+<h1 align="center">Hi, I'm Jesper Maagerø</h1>
 
-- 🌱 I’m currently learning **JavaScript and Python**
+<h3 align="center">
+Frontend Developer specializing in React, Next.js, and TypeScript
+</h3>
 
-- 👨‍💻 Most of my projects are available at [https://jmaager.github.io/portfolio/](https://jmaager.github.io/portfolio/)
+<p align="center">
+Building responsive, user-focused web applications with modern frontend technologies.
+</p>
 
-- 📫 How to reach me **jesper.maagero@hotmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+###  About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmaager&show_icons=true&locale=en" alt="jmaager" /></p>
+*  Frontend Development student graduating soon
+*  Building projects with **React, Next.js, TypeScript, and Vite**
+*  Experience with **JWT Authentication, API Integration, and SPA development**
+*  Passionate about creating clean, responsive, and user-friendly interfaces
+*  Currently expanding my knowledge of modern frontend architecture and best practices
+
+###  Portfolio
+
+* Portfolio: https://jmaager.github.io/portfolio/
+
+###  Contact
+
+* Email: **[jesper.maagero@hotmail.com](mailto:jesper.maagero@hotmail.com)**
+
+### 🛠️ Tech Stack
+
+#### Frontend
+
+HTML • CSS • JavaScript • TypeScript • React • Next.js
+
+#### UI & Styling
+
+Bootstrap • Tailwind CSS • Figma
+
+#### Development Tools
+
+Vite • Git • GitHub
+
+#### Core Skills
+
+* Responsive Web Design
+* API Integration
+* JWT Authentication
+* Single Page Applications (SPA)
+* Component-Based Architecture
+* Accessibility (A11Y)
+* Version Control
+* UI/UX Principles
+
